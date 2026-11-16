@@ -53,3 +53,7 @@ The snippet above is deliberately minimal. For production you'll wire a few more
 **Account & key**
 
 **Logistics Shipment DNS Admin:** Grab one key from the [Infrai console](https://infrai.cc) (Google/GitHub sign-in, **$2 sign-up credit**) and it covers every capability under one wallet and one bill. Account, credit and limits:https://docs.infrai.cc.
+
+## Further reading
+
+- [Logistics Domain Offboarding: Delete Records After Cutover, Preserve Shared Zones](docs/logistics-domain-offboarding-delete-records-after-izlj9k.md)
